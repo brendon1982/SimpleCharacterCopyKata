@@ -1,0 +1,1 @@
+Kata source http://www.tddbuddy.com/katas/Character%20Copy.pdf
